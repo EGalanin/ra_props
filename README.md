@@ -2,7 +2,7 @@
 
 # 3. Домашнее задание к лекции «Props»
 
-[![Build status]() [[GithubPages](/ra_props)]
+[Github Pages](https://egalanin.github.io/ra_props/ "Ссылка на Github Pages")
 
 ---
 

@@ -2,6 +2,8 @@
 
 # 3. Домашнее задание к лекции «Props»
 
+![CI](https://github.com/EGalanin/ra_props/actions/workflows/web.yml/badge.svg)
+
 [Github Pages](https://egalanin.github.io/ra_props/ "Ссылка на Github Pages")
 
 ---

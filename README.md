@@ -2,6 +2,8 @@
 
 # 3. Домашнее задание к лекции «Props»
 
+[![Build status](https://ci.appveyor.com/api/projects/status/81ab9k915okqbe1w?svg=true)](https://ci.appveyor.com/project/EGalanin/ra-props)
+
 ![CI](https://github.com/EGalanin/ra_props/actions/workflows/web.yml/badge.svg)
 
 [Github Pages](https://egalanin.github.io/ra_props/ "Ссылка на Github Pages")
